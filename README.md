@@ -2,7 +2,7 @@
 ## Site desenvolvido para a feira tecnológica da ETEC em 2021
 Este site foi desenvolvido com o intuito de colocar em prática o nosso aprendizado nas aulas de Programção Web e abordar o tema "Inteligência Artificial".
 
- https://guilhermeleodeoliveira.github.io/feira-tecnologica/
+ * [Acesse o site clicando aqui](https://guilhermeleodeoliveira.github.io/feira-tecnologica/)
 
 ## Integrantes do grupo
 * Bruna Marques:
